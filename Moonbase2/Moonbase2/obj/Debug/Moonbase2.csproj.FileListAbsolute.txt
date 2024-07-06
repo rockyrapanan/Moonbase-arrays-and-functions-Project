@@ -1,0 +1,13 @@
+C:\Users\rapto\source\repos\Moonbase2\Moonbase2\bin\Debug\Moonbase2.exe.config
+C:\Users\rapto\source\repos\Moonbase2\Moonbase2\bin\Debug\Moonbase2.exe
+C:\Users\rapto\source\repos\Moonbase2\Moonbase2\bin\Debug\Moonbase2.pdb
+C:\Users\rapto\source\repos\Moonbase2\Moonbase2\obj\Debug\Moonbase2.csproj.AssemblyReference.cache
+C:\Users\rapto\source\repos\Moonbase2\Moonbase2\obj\Debug\Moonbase2.Moonbase.resources
+C:\Users\rapto\source\repos\Moonbase2\Moonbase2\obj\Debug\Moonbase2.Properties.Resources.resources
+C:\Users\rapto\source\repos\Moonbase2\Moonbase2\obj\Debug\Moonbase2.csproj.GenerateResource.cache
+C:\Users\rapto\source\repos\Moonbase2\Moonbase2\obj\Debug\Moonbase2.csproj.CoreCompileInputs.cache
+C:\Users\rapto\source\repos\Moonbase2\Moonbase2\obj\Debug\Moonbase2.exe
+C:\Users\rapto\source\repos\Moonbase2\Moonbase2\obj\Debug\Moonbase2.pdb
+C:\Users\rapto\source\repos\Moonbase2\Moonbase2\obj\Debug\Moonbase2.East.resources
+C:\Users\rapto\source\repos\Moonbase2\Moonbase2\obj\Debug\Moonbase2.West.resources
+C:\Users\rapto\source\repos\Moonbase2\Moonbase2\obj\Debug\Moonbase2.South.resources
